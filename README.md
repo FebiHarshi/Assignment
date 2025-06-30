@@ -111,7 +111,7 @@ Assignment/
 
 ## Contributing
 
-# Contributions are always welcome! Please follow these steps:
+### Contributions are always welcome! Please follow these steps:
 
 - Fork the repo
 
